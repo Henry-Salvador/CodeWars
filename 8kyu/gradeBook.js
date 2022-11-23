@@ -32,3 +32,4 @@ function getGrade (s1, s2, s3) {
       else if (avg < 80) return "C";
       else if (avg < 90) return "B";
       else return "A";
+  }
